@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919075087755",
+    "project_id": "shop-wise-70bc1",
+    "storage_bucket": "shop-wise-70bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919075087755:android:408e98e3dea93f4c393b8e",
+        "android_client_info": {
+          "package_name": "com.example.shopwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919075087755-npe35157r30flc3krihacsv9bf7eb6oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0PP03snI6Py4cLABXGHKn95Eu3aiMyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919075087755-npe35157r30flc3krihacsv9bf7eb6oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
